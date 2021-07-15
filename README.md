@@ -1,4 +1,8 @@
-# This state (Context-API, useReducer, useState) management module is adaption of 2 -3 different online tutorials
+# React state management without Redux
+
+### This react state (Context-API, useReducer, useState) management module is an adaption of 2 -3 different online tutorials. The details of each online tutorial are provided below. 
+
+Instead of using redux for state management, I have tried to use `Context-API`, `useReducer` and `useState` together to create state management (store) natively in React. This is a much better and simpler approach for most state management problems as compared to using Redux. There of course are use cases where Redux will be the right solution but those use cases are rare and far between.
 
 
 
