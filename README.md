@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# This state (Context-API, useReducer, useState) management module is adaption of 2 -3 different online tutorials
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+### Files `inventoryReducer.js`, `store.js`, `BookingForm.js` are based on  this: (https://hmh.engineering/using-react-contextapi-usereducer-as-a-replacement-of-redux-as-a-state-management-architecture-336452b2930e).`
+
+
+### File `inventoryReducer2.js` is based on this: (https://codesandbox.io/s/ry4qyrpmz4?file=/src/index.js:0-3429).
+
+### File `CounterButton.js` is based on this: ( https://www.educative.io/courses/react-tracked-web-apps-global-state/myoDqZ58Y7A)
+
+### File `Counter-localstorage.js` is based on (https://codesandbox.io/s/ry4qyrpmz4?file=/src/index.js:0-3429)
+
+ <!-- Note: All the above links are bookmarked in chrome otherbookmarks > State... -->
+
+
+
+
+
 
 ## Available Scripts
 
